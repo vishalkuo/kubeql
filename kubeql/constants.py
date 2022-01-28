@@ -1,0 +1,2 @@
+MANIFEST_COLLECTION = "manifests"
+KUBE_MANIFEST_DB = "kube_db"
